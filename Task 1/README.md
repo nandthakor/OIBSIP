@@ -1,6 +1,6 @@
-Iris Flower Classification
+# Iris Flower Classification
 
-Project Overview
+## Project Overview
 The Iris Flower Classification project is a Machine Learning classification project that predicts the species of an iris flower based on its flower measurements. The model classifies flowers into three species:
 
 Iris-setosa
@@ -9,26 +9,26 @@ Iris-virginica
 
 The project was implemented using Python and Machine Learning libraries such as Pandas, Seaborn, Matplotlib, and Scikit-learn.
 
-Technologies Used
-Python
-Pandas
-NumPy
-Matplotlib
-Seaborn
-Pickle
+## Technologies Used
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Pickle
 
-Dataset Information
+## Dataset Information
 The dataset contains flower measurements:
 
-Sepal Length
-Sepal Width
-Petal Length
-Petal Width
+- Sepal Length
+- Sepal Width
+- Petal Length
+- Petal Width
 
 Target Variable:
-Species
+- Species
 
-Steps Performed
+## Steps Performed
 1. Data Loading
 Loaded dataset using Pandas
 Checked rows, columns, and data types
