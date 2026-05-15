@@ -20,8 +20,8 @@ The objective of this project is to understand how unemployment rates changed ac
 7. Monthly Unemployment Analysis
 
 ## Key observations: 
-Tripura had the highest average unemployment rate.
-Unemployment increased sharply between March 2020 and June 2020 due to the Covid-19 lockdown period.
-After June 2020 unemployment rates gradually decreased showing signs of economic recovery.
-Monthly and region-wise analysis helped identify the most affected periods and regions.
-## Overall, the project provided practical experience in analyzing real-world unemployment data using Python.
+- Tripura had the highest average unemployment rate.
+- Unemployment increased sharply between March 2020 and June 2020 due to the Covid-19 lockdown period.
+- After June 2020 unemployment rates gradually decreased showing signs of economic recovery.
+- Monthly and region-wise analysis helped identify the most affected periods and regions.
+#### Overall, the project provided practical experience in analyzing real-world unemployment data using Python.
