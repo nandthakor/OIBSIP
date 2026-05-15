@@ -41,39 +41,36 @@ Created count plots
 Generated pair plots
 Generated correlation heatmap
 
+### Machine Learning Models Used
+- Logistic Regression
+- Decision Tree 
+
+### Model Training
+- Split dataset into training and testing sets
+- Trained models using training data
+- Evaluated models using testing data
+
+### Model Evaluation
+- Accuracy Score
+- Confusion Matrix
+- Classification Report
+- The models achieved high accuracy because the dataset is clean, balanced, and easy to classify.
+
+### Model Saving and Prediction
+- Saved trained model using Pickle
+- Loaded saved model successfully
+- Made predictions using custom flower measurements
 
 ## Observations
-Iris-setosa was clearly distinguishable
-Iris-versicolor and Iris-virginica showed slight overlap
-Petal length and petal width had strong positive correlation
-
-
-## Machine Learning Models Used
-Logistic Regression
-Decision Tree 
-
-## Model Training
-Split dataset into training and testing sets
-Trained models using training data
-Evaluated models using testing data
-
-## Model Evaluation
-Accuracy Score
-Confusion Matrix
-Classification Report
-The models achieved high accuracy because the dataset is clean, balanced, and easy to classify.
-
-## Model Saving and Prediction
-Saved trained model using Pickle
-Loaded saved model successfully
-Made predictions using custom flower measurements
-
+- Iris-setosa was clearly distinguishable
+- Iris-versicolor and Iris-virginica showed slight overlap
+- Petal length and petal width had strong positive correlation
 
 ## Conclusion
 This project helped in understanding the complete Machine Learning workflow including:
-Data preprocessing
-Exploratory Data Analysis (EDA)
-Model training
-Model evaluation
-Prediction using trained models
-Saving and loading ML models
+- Data preprocessing
+- Exploratory Data Analysis (EDA)
+- Model training
+- Model evaluation
+- Prediction using trained models
+- Saving and loading ML models
