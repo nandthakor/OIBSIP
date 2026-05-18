@@ -5,7 +5,7 @@ This project focuses on predicting car selling prices using Machine Learning tec
 
 The project demonstrates the complete machine learning workflow including data preprocessing, exploratory data analysis, feature engineering, model training, evaluation, and prediction.
 
----
+
 
 ## Technologies Used
 - Python
@@ -16,7 +16,7 @@ The project demonstrates the complete machine learning workflow including data p
 - Scikit-learn
 - Joblib
 
----
+
 
 ## Project Workflow
 1. Data Loading
@@ -30,7 +30,6 @@ The project demonstrates the complete machine learning workflow including data p
 9. Car Price Prediction
 10. Model Saving and Loading
 
----
 
 ## Features Used
 - Present Price
@@ -41,18 +40,17 @@ The project demonstrates the complete machine learning workflow including data p
 - Owner Count
 - Car Age
 
----
+
 
 ## Model Used
 - Linear Regression
 
----
+
 
 ## Evaluation Metrics
 - Mean Absolute Error (MAE)
 - R² Score
 
----
 
 ## Key Learnings
 - Data preprocessing and cleaning
@@ -63,7 +61,7 @@ The project demonstrates the complete machine learning workflow including data p
 - Prediction using machine learning
 - Saving and loading ML models using Joblib
 
----
+
 
 ## Conclusion
 This project provided practical experience in building a regression-based machine learning model for car price prediction. It helped in understanding the complete machine learning workflow from preprocessing to prediction using Python and Scikit-learn.
